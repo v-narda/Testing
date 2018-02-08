@@ -13,7 +13,21 @@ d
 Fsd
 fSd
 fsdnfihsdufhsudgfysdgfysdgyfsdyfgsdygfsdf
+<<<<<<< HEAD
 ronaksdjfhsidhfiosdnfihsdifbsduibfssd
 f
 sd
 f
+=======
+
+76	1254235678689758923456fsdf
+2358973489768907
+
+>>>>>>> 0e95bbe203d4ced7fc66e5814512d3f2fc51babagtertertert
+sdf
+sd
+f
+sdf
+sd
+f
+
